@@ -1,6 +1,7 @@
 # vue-cli
 
 > A Vue.js project
+http://vuejs-stock-trader-app-1.s3-website-us-west-2.amazonaws.com/stocks
 
 ## Build Setup
 
